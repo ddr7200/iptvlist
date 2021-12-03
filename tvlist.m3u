@@ -69,3 +69,17 @@ http://192.168.100.129:4022/udp/239.77.0.165:5146
 http://192.168.100.129:4022/udp/239.77.0.198:5146
 #EXTINF:-1,CCTV-5+ 赛事
 http://192.168.100.129:4022/udp/239.77.0.87:5146
+#EXTINF:-1 ,翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 ,无线新闻台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 ,无线财经·资讯台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 ,明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 ,港台电视RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
