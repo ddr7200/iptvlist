@@ -5,12 +5,6 @@ http://192.168.100.129:4022/udp/239.77.0.168:5146
 http://192.168.100.129:4022/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克4K
 http://192.168.100.129:4022/udp/239.77.0.232:5146
-#EXTINF:-1,极k影视-测试
-http://192.168.100.129:4022/udp/239.253.43.218:5146
-#EXTINF:-1,极K精选-测试
-http://192.168.100.129:4022/udp/239.77.0.231:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克4K-3
-http://192.168.100.129:4022/udp/239.77.0.208:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.100.129:4022/udp/239.77.1.144:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
@@ -91,3 +85,7 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",极k影视-1
+http://192.168.100.129:4022/udp/239.253.43.218:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",极K精选-2
+http://192.168.100.129:4022/udp/239.77.0.231:5146
