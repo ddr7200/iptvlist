@@ -73,3 +73,7 @@ http://192.168.100.129:4022/udp/239.77.1.76:5146
 http://192.168.100.129:4022/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 赛事
 http://192.168.100.129:4022/udp/239.77.0.87:5146
+#EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
+http://192.168.100.129:4022/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
+http://192.168.100.129:4022/udp/239.253.43.72:5146
