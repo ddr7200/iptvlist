@@ -23,6 +23,8 @@ http://192.168.100.129:4022/udp/239.77.0.166:5146
 http://192.168.100.129:4022/udp/239.77.1.151:5146
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.100.129:4022/udp/239.77.0.98:5146
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视高清
+http://192.168.100.129:4022/udp/239.77.1.215:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东公共
 http://192.168.100.129:4022/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东新闻
@@ -71,7 +73,13 @@ http://192.168.100.129:4022/udp/239.77.0.198:5146
 http://192.168.100.129:4022/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 赛事
 http://192.168.100.129:4022/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
+#EXTINF:-1 tvg-name="广州综合" group-title="广东",广州综合高清
 http://192.168.100.129:4022/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
+#EXTINF:-1 tvg-name="广州新闻" group-title="广东",广州新闻高清
 http://192.168.100.129:4022/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="广东",大湾区卫视高清
+rtp://239.77.0.215:5146
+#EXTINF:-1 tvg-name="茂名综合" group-title="广东",茂名综合高清
+rtp://239.77.0.206:5146
+#EXTINF:-1 tvg-name="茂名公共" group-title="广东",茂名公共高清
+rtp://239.77.0.207:5146
