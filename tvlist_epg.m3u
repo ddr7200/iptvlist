@@ -3,10 +3,6 @@
 http://192.168.100.129:4022/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
 http://192.168.100.129:4022/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K
-http://192.168.100.129:4022/udp/239.77.1.98:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="央视",CCTV 4K
-http://192.168.100.129:4022/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.100.129:4022/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
@@ -71,6 +67,8 @@ http://192.168.100.129:4022/udp/239.77.1.239:5146
 http://192.168.100.129:4022/udp/239.77.1.76:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://192.168.100.129:4022/udp/239.77.0.198:5146
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="央视",CCTV 4K
+http://192.168.100.129:4022/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 赛事
 http://192.168.100.129:4022/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
